@@ -26,16 +26,6 @@ Easiest: just double-click `index.html` to open it in a browser.
 Recommended (avoids any browser file:// restrictions): serve the folder
 with a tiny local server, then open the printed URL.
 
-```bash
-# Python 3
-python3 -m http.server 8000
-
-# or Node
-npx serve .
-```
-
-Then visit http://localhost:8000
-
 ## Features
 
 - 5 lessons, each with explanation, analogies, diagrams, runnable code,
